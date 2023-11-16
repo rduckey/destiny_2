@@ -5,7 +5,7 @@ title:My Wishlist
 dimwishlist:item=5159537&perks=839105230,2420895100,2779035018,124408337
 
 
-// Horror Story - Horror Story (god-pve)
+// Horror Story - Stasis (god-pve)
 //notes: stasis God Roll tags:god-pve
 dimwishlist:item=177568179&perks=3523296417,124408337
 
@@ -13,6 +13,11 @@ dimwishlist:item=177568179&perks=3523296417,124408337
 // Horror Story - Horror Story (god-pvp)
 //notes: tags:god-pvp
 dimwishlist:item=177568179&perks=1359896290,365154968
+
+
+// Horror Story (pve)
+//notes: tags:pve
+dimwishlist:item=177568179&perks=3523296417,4104185692
 
 
 // Eyasluna - Unrelenting Headstone (pve)

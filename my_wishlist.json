@@ -5,7 +5,7 @@
         {
             "description": "stasis God Roll",
             "hash": 177568179,
-            "name": "Horror Story",
+            "name": "Stasis",
             "plugs": [
                 [
                     3523296417
@@ -472,6 +472,22 @@
             ],
             "tags": [
                 "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 177568179,
+            "name": "",
+            "plugs": [
+                [
+                    3523296417
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
             ]
         }
     ]
